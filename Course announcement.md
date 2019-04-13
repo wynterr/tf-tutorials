@@ -15,10 +15,22 @@ https://github.com/PeiqinSun/tf-tutorials/blob/master/01-svhn/Homework%201.md
 - 评分标准
     - 作业评分根据diff文件的文件大小（达到实验目的条件下越少越好，但要保持可读性）；以及实验结果是否正确。
     - 作业严禁抄袭。
+    - 讲评后提交最高分只有90分，最终成绩为第一次提交、第二次提交的高者
 
 ## 大作业
-- 第7周组队+选定指导老师，第11周present
+- 第6周组队+选定指导老师，第11周present
 - 每队不超过3人
+- 可以和本科课是同一个队同一个topic。如果一样，本科课只present delta部分。
+
+## GPU servers
+- We provide some servers, each server has eight Nvidia GPU for students to do all the experiments.
+- **python** and **tensorflow** has already been installed.
+- Some lucky guys will get a IP address and a port number to log in a docker on servers.
+- You can read Docker.md for more information.
+
+### Warnings
+- **Do not use the computation resource for your private project!!**
+- **Do not let anyone who has not selected this course know the username and password of your docker!!**
 
 ## External links
 For quick introduction to Python, can try https://www.learnpython.org/
