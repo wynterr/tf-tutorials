@@ -10,7 +10,7 @@ https://github.com/PeiqinSun/tf-tutorials/blob/master/01-svhn/Homework%201.md
     - 各个问题产生的`diff -u`文件 （见 https://github.com/PeiqinSun/tf-tutorials/blob/master/Homework%20instructions.md ）。比如第一次作业Q1的答案源代码，应该以q1.1.diff q1.2.diff等多个.diff文件的形式保存。
 - 上交格式及步骤:
     - 将上交内容打成一个`tar`包, 命名为 作业编号+学号.tar; e.g. 01_350280101.tar
-    - 登录作业上交网站: http://39.104.61.196:8000/
+    - 登录作业上交网站见论坛对应版面
     - 选中对应的tar包upload到服务器。
 - 评分标准
     - 作业评分根据diff文件的文件大小（达到实验目的条件下越少越好，但要保持可读性）；以及实验结果是否正确。
@@ -21,16 +21,6 @@ https://github.com/PeiqinSun/tf-tutorials/blob/master/01-svhn/Homework%201.md
 - 第6周组队+选定指导老师，第11周present
 - 每队不超过3人
 - 可以和本科课是同一个队同一个topic。如果一样，本科课只present delta部分。
-
-## GPU servers
-- We provide some servers, each server has eight Nvidia GPU for students to do all the experiments.
-- **python** and **tensorflow** has already been installed.
-- Some lucky guys will get a IP address and a port number to log in a docker on servers.
-- You can read Docker.md for more information.
-
-### Warnings
-- **Do not use the computation resource for your private project!!**
-- **Do not let anyone who has not selected this course know the username and password of your docker!!**
 
 ## External links
 For quick introduction to Python, can try https://www.learnpython.org/
